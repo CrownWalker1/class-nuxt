@@ -1,5 +1,5 @@
 <template>
-    <div> {{ message }} </div>
+    <div class="text-4xl"> {{ message }} </div>
 </template>
 
 <script setup>
