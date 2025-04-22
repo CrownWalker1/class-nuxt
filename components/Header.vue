@@ -2,10 +2,10 @@
 <header class="bg-gray-500 text-white px-4 py-3 flex justify-between flex-row">
      This is the header
      <nav>
-        <ul class="flex flex-row">
+        <ul class="flex flex-row gap-4 px-4">
 
 <li><nuxt-link to="/">Home Page</nuxt-link></li>
-<li><nuxt-link to="/">About Page</nuxt-link></li>
+<li><nuxt-link to="/about">About</nuxt-link></li>
 
         </ul>
      </nav>
