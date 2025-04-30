@@ -1,7 +1,7 @@
 <template>
-    <nav>header nav</nav>
+    <nav></nav>
 
     <slot />
 
-    <footer>footer</footer>
+    <footer></footer>
 </template>

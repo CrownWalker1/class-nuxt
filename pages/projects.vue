@@ -1,5 +1,5 @@
 <template>
     <div>
-    <PageHeader title="About Page" />
+    <PageHeader title="Projects Page" />
     </div>
 </template>

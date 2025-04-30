@@ -1,13 +1,24 @@
 <template>
-<header class="bg-gray-500 text-white px-4 py-3 flex justify-between flex-row">
-     This is the header
-     <nav>
-        <ul class="flex flex-row gap-4 px-4">
 
-<li><nuxt-link to="/">Home Page</nuxt-link></li>
-<li><nuxt-link to="/about">About</nuxt-link></li>
+<div class="bg-gray-800">
 
-        </ul>
-     </nav>
+<header class="max-w-5xl mx-auto text-white px-4 py-3 flex justify-between items-center flex-row">
+
+
+
+        <nuxt-link to="/" class="font-bold"> Cameron Benson
+                
+        </nuxt-link>
+                <img class="h-8 pr-116" src="public/Astronaught.jpg" alt="">
+
+        <Navigation />
+
+
+
+
+
+
+     
      </header>
+</div>
 </template>
