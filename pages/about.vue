@@ -8,7 +8,7 @@
 
     <div class="space-y-4">
 <p>
-    Hello and welcome to my website! My name is Cameron Benson.
+    Hello and welcome to my website! My name is Cameron Benson
 </p>
 
 <p>
