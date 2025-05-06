@@ -3,7 +3,7 @@
     <PageHeader title="About Page" />
     </div>
 <div>
-    <img class="h-100" src="C:\Users\Camer\Desktop\Sites\Dev Class 2025\Webdev-2025\class-nuxt\public\Self Photo.jpg" alt="">
+    <img class="h-100" src="C:\Users\Camer\Desktop\Sites\Dev Class 2025\Webdev-2025\class-nuxt\public\self photo.jpg" alt="">
 </div>
 
     <div class="space-y-4">
