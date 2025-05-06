@@ -3,7 +3,7 @@
     <PageHeader title="About Page" />
     </div>
 <div>
-    <img class="h-100" src="/self-photo.jpg" alt="">
+    <img class="h-100" src="/self.photo.jpg" alt="">
 </div>
 
     <div class="space-y-4">
