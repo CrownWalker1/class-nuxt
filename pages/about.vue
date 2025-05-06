@@ -31,12 +31,6 @@
     learning how to fix things and make them better is one of my favorite things to do.
 </p>
 
- 
-
-
-
-
-
 
 </div>
 
