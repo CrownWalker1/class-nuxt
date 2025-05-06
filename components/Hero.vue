@@ -9,7 +9,9 @@ style="
 <article
 class="bg-gray-800/50 h-full w-full flex flex-col justify-start p-16 items-center text-white">
       
-<h1 class="text-4xl font-bold">Welcome To My Website</h1>
+<h1 class="text-4xl font-bold">CWC Custom Designs</h1>
+<h2> 3D Models of varieties </h2>
+<h3> test </h3>
 </article>
 
 </section>
