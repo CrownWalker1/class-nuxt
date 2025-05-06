@@ -12,7 +12,7 @@
 </p>
 
 <p>
-    Currently I work as a Web developer for X Enterprises and I also run a small side buisness which is what you see on this website! :)
+    Currently I work as a Web developer for X Enterprises and I also run a small side buisness which is what you see on this website! 
 </p>
 
 
