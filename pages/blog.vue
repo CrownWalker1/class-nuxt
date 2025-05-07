@@ -11,7 +11,7 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the first blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blog/post-1" class="text-blue-500 hover:underline mt-4 block">aRead More</a>
+                <a href="readmepage1" class="text-blue-500 hover:underline mt-4 block">aRead More</a>
             </div>
 
             <div class="p-4 border rounded-lg shadow-md">
