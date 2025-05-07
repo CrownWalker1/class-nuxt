@@ -1,5 +1,5 @@
 <template>
-<nav class="flex gap-8 pr-4 text-sm text-red-500">
+<nav class="flex gap-8 pr-4 text-sm text-white-500">
  
     <nuxt-link to="/" class="hover:text-black text-sm">Home</nuxt-link>
     <nuxt-link to="/about" class="hover:text-black text-sm">About</nuxt-link>
