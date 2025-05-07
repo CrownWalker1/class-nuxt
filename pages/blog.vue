@@ -20,7 +20,7 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the second blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blog/post-2" class="text-blue-500 hover:underline mt-4 block">Read More</a>
+                <a href="/blogpost-2" class="text-blue-500 hover:underline mt-4 block">Read More</a>
             </div>
 
             <div class="p-4 border rounded-lg shadow-md">
@@ -29,7 +29,7 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the third blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blog/post-3" class="text-blue-500 hover:underline mt-4 block">Read More</a>
+                <a href="/blogpost-3" class="text-blue-500 hover:underline mt-4 block">Read More</a>
             </div>
         </div>
     </div>
