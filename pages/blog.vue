@@ -11,7 +11,14 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the first blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blogpost-1" class="text-blue-500 hover:underline mt-4 block">aRead More</a>
+                <div class="flex items-center justify-between mt-4">
+                <a href="/blogpost-1" class="text-blue-500 hover:underline mt-4 block whitespace-nowrap">Read More</a> 
+                
+                
+                <p class="text-gray-800 mt-4 whitespace-nowrap"> Posted: 5/5/2025</p> 
+            </div>
+
+
             </div>
 
             <div class="p-4 border rounded-lg shadow-md">
@@ -20,7 +27,12 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the second blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blogpost-2" class="text-blue-500 hover:underline mt-4 block">Read More</a>
+                <div class="flex items-center justify-between mt-4">
+                <a href="/blogpost-2" class="text-blue-500 hover:underline mt-4 block whitespace-nowrap">Read More</a>
+
+                <p class="text-gray-800 mt-4 whitespace-nowrap"> Posted: 5/5/2025</p> 
+            </div>
+
             </div>
 
             <div class="p-4 border rounded-lg shadow-md">
@@ -29,7 +41,12 @@
                 <p class="mt-2 text-gray-700">
                     This is a short description or excerpt of the third blog post. It gives readers an idea of what the post is about.
                 </p>
-                <a href="/blogpost-3" class="text-blue-500 hover:underline mt-4 block">Read More</a>
+                <div class="flex items-center justify-between mt-4">
+                <a href="/blogpost-3" class="text-blue-500 hover:underline mt-4 block whitespace-nowrap">Read More</a>
+
+                <p class="text-gray-800 mt-4 whitespace-nowrap"> Posted: 5/5/2025</p> 
+                </div>
+
             </div>
         </div>
     </div>
