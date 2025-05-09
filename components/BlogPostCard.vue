@@ -1,11 +1,18 @@
 <template>
     <div class="p-4 border rounded-lg shadow-md">
-        <h2 class="text-xl font-bold">{{ title }}</h2>
-        <p class="text-gray-500 text-sm">Published on {{ publishedDate }}</p>
-        <p class="mt-2 text-gray-700">{{ description }}</p>
+   
+        <h2 class="text-xl font-bold" v-text="title"></h2>
+
+        <p class="text-gray-500 text-sm">
+            Published on <span v-text="publishedDate"></span>
+        </p>
+
+        <p class="mt-2 text-gray-700" v-text="description"></p>
+
+     
         <div class="flex items-center justify-between mt-4">
             <a :href="link" class="text-blue-500 hover:underline whitespace-nowrap">Read More</a>
-            <p class="text-gray-800 whitespace-nowrap">Posted: {{ postedDate }}</p>
+            <p class="text-gray-800 whitespace-nowrap" v-text="'Posted: ' + postedDate"></p>
         </div>
     </div>
 </template>
@@ -31,12 +38,14 @@ export default {
         },
         postedDate: {
             type: String,
-            required: true,
-        },
-    },
-};
+            required: true
+        } 
+    }
+}
 </script>
 
 <style scoped>
-
+.example-class {
+    color: red;
+}
 </style>
