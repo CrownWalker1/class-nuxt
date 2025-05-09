@@ -7,18 +7,18 @@ style="
       "
 >
 <article
-class="bg-gray-800/50 h-full w-full flex flex-col justify-start p-16 items-center text-white">
+class="bg-gray-800/50 h-full w-full flex flex-col p-16 items-center text-white text-center justify-center justify-start">
       
 <h1 class="text-4xl font-bold">CWC Custom Designs</h1>
 <h2> 3D Models of All Varieties </h2>
 
-<div class="border-t border-white/20 w-full mt-4">
+
+<div class=" w-full mt-4 center pt-40">
 <h3>  
   <a 
     href="http://localhost:3000/projects" 
-    class="text-red-500 hover:underline mt-4 block whitespace-nowrap bg-gray-700 hover:bg-gray-600 px-4 py-2 rounded"
-  >
-    Click here to see my work
+    class="text-red-500 hover:underline mt-4 whitespace-nowrap bg-gray-700 hover:bg-gray-600 py-2 rounded px-10 inline-block items-center">
+    Click Here To See My Models
   </a>
 </h3>
 </div>
