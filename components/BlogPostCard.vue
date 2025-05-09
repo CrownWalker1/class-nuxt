@@ -38,5 +38,5 @@ export default {
 </script>
 
 <style scoped>
-/* Add any specific styles for the blog card here if needed */
+
 </style>
